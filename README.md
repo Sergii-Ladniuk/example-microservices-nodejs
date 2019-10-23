@@ -21,3 +21,15 @@ npm run start
 cd <service folder>
 npm run start:prod
 ```
+
+# PM2 installation
+
+```
+npm install -g pm2
+```
+
+# Run all
+
+```
+./run.sh
+```
