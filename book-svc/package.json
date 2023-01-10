@@ -10,7 +10,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
     "@babel/register": "7.0.0",
-    "convict": "^4.4.1",
+    "convict": "^6.2.4",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
